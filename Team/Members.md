@@ -1,3 +1,5 @@
 # Members
 
-## Simon GERVAISE
+**Augustin Morge**
+**Rémi POREE**
+**Simon GERVAISE**
