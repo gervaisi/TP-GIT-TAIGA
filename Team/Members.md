@@ -1,3 +1,4 @@
 # Members
 
-Porée Rémi
+**Rémi POREE**
+**Simon GERVAISE**
